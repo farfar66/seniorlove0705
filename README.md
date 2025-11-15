@@ -1,44 +1,45 @@
-# SeniorLove 0705
+# 不言老去，爱与欲的追寻  
+# Never Too Old: A Data Story of Late-Life Love & Desire
 
-**In one sentence:**  
-A static single-page website prototype called **“SeniorLove”**, designed as a front-end landing page for a senior-care / elder companionship concept, built with pure **HTML, CSS, and JavaScript**.
+This repository contains a scrollytelling, data-driven longform webpage about love, loneliness, and desire among older adults in contemporary China. It combines narrative reporting, qualitative vignettes, and quantitative visualizations into a single immersive story.
 
-This repository contains the source files (HTML, styles, scripts, fonts, and images) for the SeniorLove page.  
-It is a **front-end only** project — there is **no backend, database, or API** code here.
-
----
-
-## 1. Project overview
-
-SeniorLove is a small web design project that explores how to:
-
-- present a **service or project aimed at older adults** (e.g., senior care, support, or companionship),
-- use **visual design and layout** to communicate warmth, trust, and accessibility,
-- practice **HTML/CSS layout** and simple **JavaScript interactions** in a self-contained page.
-
-The page is implemented as a **single HTML file** (`seniorlove0625.html`) supported by:
-
-- custom styles under `/css`,
-- lightweight scripts under `/js`,
-- local fonts and image assets.
-
-You can use this project as:
-
-- a design **prototype** or **portfolio piece**,  
-- a starting point for building a more complex site for senior-care–related services,
-- an example of a static landing page structure.
+> Working title (English): **“Never Too Old: Love and Desire in Later Life”**
 
 ---
 
-## 2. Repository structure
+## Table of Contents
 
-The repository is organized as follows:
+1. [Project Overview](#project-overview)  
+2. [Live Demo](#live-demo)  
+3. [Features](#features)  
+4. [Tech Stack](#tech-stack)  
+5. [Project Structure](#project-structure)  
+6. [Getting Started](#getting-started)  
+7. [How the Page is Organized](#how-the-page-is-organized)  
+8. [Data & Visualizations](#data--visualizations)  
+9. [Customization Guide](#customization-guide)  
+10. [Known Issues / To-Do](#known-issues--to-do)  
+11. [Credits](#credits)  
+12. [License](#license)
+
+---
+
+## Project Overview
+
+The project explores how older adults in China navigate:
+
+- **Media representations** of seniors  
+- **Emotional loneliness** and everyday routines  
+- **Romantic and sexual desire** in later life  
+- **Offline and online spaces** where “sunset love” unfolds (parks, matchmaking corners, apps, etc.)
+
+It is meant to be read like a magazine feature or a digital longform article: the reader scrolls through chapters, meets specific characters, and sees data visualizations that contextualize their stories.
+
+---
+
+## Live Demo
+
+If you host this project (for example on GitHub Pages or another static host), you can link it here:
 
 ```text
-seniorlove0705/
-├── Fonts/                 # Custom font files used by the page
-├── css/                   # Stylesheets (layout, colors, typography)
-├── image/                 # Image assets used in the design
-├── js/                    # JavaScript files for basic interactions
-├── seniorlove0625.html    # Main HTML file (SeniorLove landing page)
-└── README.md
+https://your-username.github.io/seniorlove/
